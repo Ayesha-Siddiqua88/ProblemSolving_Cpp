@@ -1,3 +1,5 @@
+// To find the name of neighbouring berth 
+
 #include <iostream>
 using namespace std;
 
